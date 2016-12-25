@@ -1,0 +1,2 @@
+# WordpressTemplate
+My WP template
